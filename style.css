@@ -167,7 +167,7 @@ transition: 5s;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: scroll;
-  margin-left: 10px;
+  margin-left: 50px;
   margin-top: 15px;
   cursor: url('cursor-2_2.png'), default;
 }
@@ -175,8 +175,7 @@ transition: 5s;
 /* Modal Content/Box */
 .modal-content {
   background-color: #DFE9DE;
-  border: 1px solid black;
-  border-radius: 3%;
+  border: 1px solid #26734d;
   width: 930px;
   height: 670px;
   font-family: 'Martel Sans', sans-serif;
@@ -197,7 +196,7 @@ transition: 5s;
 .close {
   color: black;
   position: absolute;
-  margin-left: 710px;
+  margin-left: 896px;
   font-size: 20px;
   font-family: 'Martel Sans', sans-serif;
   opacity: 70%;
