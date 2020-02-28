@@ -1,0 +1,35 @@
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+  z-index: -1;
+}
+
+.image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 300px;
+}
+
+.back {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  justify-content: flex-start;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 30px;
+}
+
+.back p {
+  color: #ffee30;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
